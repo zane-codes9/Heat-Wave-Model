@@ -1,6 +1,6 @@
 # Heat-Wave-Collapse
 
-This repository contains the Python code used to map the tipping points of cities during extreme heat waves. 
+This repository contains the Python code used to map the tipping points of cities undergoing extreme heat.
 
 Current disaster planning relies on linear models, which assume a system stretches indefinitely (e.g., 1 degree hotter = 10 more deaths). Real systems don't stretch forever; they snap. 
 
