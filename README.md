@@ -1,5 +1,9 @@
 # Heat-Wave-Collapse
 
+Update: this was presented on student research day in my first M.Sc. year. Preliminary (by no means rigorous), and... actually was a really fun exercise.
+
+---
+
 We introuce a dynamic model to map the tipping points of cities undergoing heat waves.
 
 Current disaster planning relies on linear models, which assume a system stretches indefinitely (e.g., 1 degree hotter = 10 more deaths). Real systems don't stretch forever; they snap. 
