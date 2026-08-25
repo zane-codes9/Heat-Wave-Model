@@ -1,6 +1,6 @@
 # Heat-Wave-Collapse
 
-Update: this work was presented on research day in my first M.Sc. year. While it won me an award, it was preliminar, by no means rigorous— very fun exercise nonetheless!
+Update: this work was presented on research day in my first M.Sc. year and won me an award. It was preliminary (by no means rigorous) and was a very fun introduction to differential equations!
 
 ---
 
