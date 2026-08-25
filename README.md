@@ -1,6 +1,6 @@
 # Heat-Wave-Collapse
 
-Update: this was presented on student research day in my first M.Sc. year. Preliminary (by no means rigorous), and... actually was a really fun exercise.
+Update: this was presented on student research day in my first M.Sc. year and won me an award. It was preliminary (by no means rigorous), and... actually was a really fun exercise.
 
 ---
 
